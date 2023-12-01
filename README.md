@@ -9,7 +9,7 @@
 
 - 👯 I’m open to collaborate on **MERN Project**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **<beratyilmaz.job@gmail.com>**
 <br/>
